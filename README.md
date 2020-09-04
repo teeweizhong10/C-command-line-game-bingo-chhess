@@ -27,9 +27,7 @@ there is a token in place. If there is, it checks all the tokens to its right to
 check has to run twice; once for the tokens that are ascending from left to right, and
 once for the tokens that are ascending from right to left. When a token is detected, it
 checks if there are 4 consecutive diagonal tokens on the board. This is done by
-searching either array index to the bottom right or the array index to the top right. Input
-
-functions are used to see if the user had input a valid number for the placement of
+searching either array index to the bottom right or the array index to the top right. Input functions are used to see if the user had input a valid number for the placement of
 his/her token. There is also a check to see when a column is full; if there is a column
 that is full the user will be prompted to re-enter their input. The character name of
 players are returned after the user inputs which number in relation to the character
