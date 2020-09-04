@@ -1,8 +1,8 @@
 # C-command-line-game-bingo-chhess
 
 Authour: Wei Zhong Tee
-Last Updated: 15 November 2019
-Project Type: Command line game with C++
+/nLast Updated: 15 November 2019
+\nProject Type: Command line game with C++
 
 This is bingo chess game four in a row game that is meant to be run on the command line.
 
