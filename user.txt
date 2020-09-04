@@ -1,0 +1,10 @@
+11
+Darth Vader
+10
+Luke Skywalker
+12
+Obi-Wan Kenobi
+9
+Kylo Ren
+8
+Han Solo
